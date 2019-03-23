@@ -1,0 +1,29 @@
+a {
+  text-decoration: none;
+  color: #373737;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+header {  
+  margin-top: 20px;
+}
+
+#g_links {
+  margin-right: 20px;
+  font-size: 13px;
+  font-family: Arial, Helvetica, sans-serif;  
+}
+
+#images_link {
+  padding-left: 10px;
+}
+
